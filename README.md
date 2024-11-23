@@ -72,7 +72,7 @@ endmodule
 ~~~
 	Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
-![image](https://github.com/user-attachments/assets/612c0ccb-ee31-4c6d-9054-cb5124dfb2f0)
+![image](https://github.com/user-attachments/assets/9eef530e-450d-4c83-a1ae-616c8c5e3ea9)
 
 ## Creating Test bench:
 
@@ -121,7 +121,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	We are simulating verilog design without using any libraries
 
-![image](https://github.com/user-attachments/assets/4b3c4966-1646-4bcf-bd3d-198430cbc09e)
+![Screenshot 2024-11-22 222628](https://github.com/user-attachments/assets/50afa672-9e14-463b-b837-97bf84442be1)
 
 ## Fig 5: Selection of Don’t include any libraries
 
@@ -139,7 +139,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
 
-![image](https://github.com/user-attachments/assets/85203884-fb94-4a69-92e0-670c1926fc92)
+![Screenshot 2024-11-22 222700](https://github.com/user-attachments/assets/c6ee2f07-ec28-4a33-9d21-5959f01e5a09)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -192,7 +192,7 @@ It contains statements that map logical library names to their physical director
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
-![image](https://github.com/user-attachments/assets/fc075d12-c2eb-4a7d-9868-0c56da4ba92b)
+![Screenshot 2024-11-22 222717](https://github.com/user-attachments/assets/fddcc4de-9201-4d43-bdc7-19be70ba12ce)
 
 ## Fig 8: Elaboration Launch Option
 
